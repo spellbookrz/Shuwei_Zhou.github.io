@@ -27,34 +27,35 @@ My current research covers two major directions in damage-tolerant fatigue and f
 Physics-embedded Machine Learning for Fatigue and Fracture
 I incorporate physical information and domain knowledge into machine learning models to accurately predict crack initiation, crack propagation, and fatigue life. Representative works have been published in
 
-Engineering Fracture Mechanics (<a href="https://doi.org/10.1016/j.engfracmech.2025.111136">link</a>)
+<a href="https://doi.org/10.1016/j.engfracmech.2025.111136">Engineering Fracture Mechanics</a> (<a href="https://doi.org/10.1016/j.engfracmech.2025.111136">link</a>)
 
-Metals and Materials International (<a href="https://link.springer.com/article/10.1007/s12540-024-01628-6">link</a>)
+<a href="https://link.springer.com/article/10.1007/s12540-024-01628-6">Metals and Materials International</a> (<a href="https://link.springer.com/article/10.1007/s12540-024-01628-6">link</a>)
 
-Chinese Journal of Mechanical Engineering (<a href="https://link.springer.com/article/10.1186/s10033-023-00876-8">link</a>)
+<a href="https://link.springer.com/article/10.1186/s10033-023-00876-8">Chinese Journal of Mechanical Engineering</a> (<a href="https://link.springer.com/article/10.1186/s10033-023-00876-8">link</a>)
 
-中国有色金属学报 (Chinese Journal of Nonferrous Metals) (<a href="http://ysxb.csu.edu.cn/thesisDetails#10.11817/j.ysxb.1004.0609.2022-43508&lang=zh">link</a>)
+<a href="http://ysxb.csu.edu.cn/thesisDetails#10.11817/j.ysxb.1004.0609.2022-43508&lang=zh">中国有色金属学报 (Chinese Journal of Nonferrous Metals)</a> (<a href="http://ysxb.csu.edu.cn/thesisDetails#10.11817/j.ysxb.1004.0609.2022-43508&lang=zh">link</a>)
 
 Crystal Plasticity Finite Element Method (CPFEM)
 I employ CPFEM to systematically investigate microstructure-sensitive fatigue crack initiation and growth in metallic materials. Representative work has been published in
 
-International Journal of Fatigue (<a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">link</a>)
+<a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">International Journal of Fatigue</a> (<a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">link</a>)
 
 I am aiming to integrate these two research directions to develop data-driven multiscale frameworks for understanding and predicting fatigue behavior.
 
 
 # 🔥 News
-- *2025.9*: &nbsp;🎉🎉 My second paper during Ph.D study for a microstructure-sensitive fatigue modelling by CPFEM is published in International Journal of Fatigue (<a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">link</a>).
-- *2025.5*: &nbsp;🎉🎉 I cooperate with Feng Feng (<a href="https://www.researchgate.net/profile/Feng-Feng-11">link</a>) for predicting the probability fatigue life of AM materials in Expert Systems with Applications (<a href="https://doi.org/10.1016/j.eswa.2025.127098">link</a>).
-- *2025.04*: &nbsp;🎉🎉 My first paper during Ph.D study for a general PINN framework for fatigue life prediction is published in Engineering Fracture Mechanics (<a href="https://doi.org/10.1016/j.engfracmech.2025.111136">link</a>).
-- *2025.02*: &nbsp;🎉🎉 I cooperate with Prof. Zhen Liao (<a href="https://www.researchgate.net/profile/Liao-Zhen">link</a>) for crack propagation mechanisms in AM Al-Mg alloy in Materials Science and Engineering: A (<a href="https://doi.org/10.1016/j.msea.2025.147802">link</a>).
-- *2024.12*: &nbsp;🎉🎉 I cooperate with Shuancheng Wang (<a href="https://www.researchgate.net/profile/Shuancheng-Wang">link</a>) for evaluating SIFs by symbolic regression in Engineering Fracture Mechanics (<a href="https://doi.org/10.1016/j.engfracmech.2024.110641">link</a>).
-- *2024.11*: &nbsp;🎉🎉 I cooperate with Feng Feng (<a href="https://www.researchgate.net/profile/Feng-Feng-11">link</a>) for predicting fatigue life of SLM316L steel by PINN in International Journal of Fatigue (<a href="https://doi.org/10.1016/j.ijfatigue.2024.108486">link</a>).
-- *2024.08*: &nbsp;🎉🎉 I cooperate with Shuancheng Wang (<a href="https://www.researchgate.net/profile/Shuancheng-Wang">link</a>) for effect of stress ratio and overload on fatigue crack growth behaviour in Engineering Fracture Mechanics (<a href="https://doi.org/10.1016/j.engfracmech.2025.111136">link</a>).
-- *2024.01*: &nbsp;🎉🎉 I publish my last paper from master's study for modelling fatigue short crack growth behavior in Metal Materials International (<a href="https://link.springer.com/article/10.1007/s12540-024-01628-6">link</a>).
+- *2025.9*: &nbsp;🎉🎉 My second paper during Ph.D study for a microstructure-sensitive fatigue modelling by CPFEM is published in <a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">International Journal of Fatigue</a> (<a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">link</a>).
+- *2025.5*: &nbsp;🎉🎉 I cooperate with Feng Feng (<a href="https://www.researchgate.net/profile/Feng-Feng-11">link</a>) for predicting the probability fatigue life of AM materials in <a href="https://doi.org/10.1016/j.eswa.2025.127098">Expert Systems with Applications</a> (<a href="https://doi.org/10.1016/j.eswa.2025.127098">link</a>).
+- *2025.04*: &nbsp;🎉🎉 My first paper during Ph.D study for a general PINN framework for fatigue life prediction is published in <a href="https://doi.org/10.1016/j.engfracmech.2025.111136">Engineering Fracture Mechanics</a> (<a href="https://doi.org/10.1016/j.engfracmech.2025.111136">link</a>).
+- *2025.02*: &nbsp;🎉🎉 I cooperate with Prof. Zhen Liao (<a href="https://www.researchgate.net/profile/Liao-Zhen">link</a>) for crack propagation mechanisms in AM Al-Mg alloy in <a href="https://doi.org/10.1016/j.msea.2025.147802">Materials Science and Engineering: A</a> (<a href="https://doi.org/10.1016/j.msea.2025.147802">link</a>).
+- *2024.12*: &nbsp;🎉🎉 I cooperate with Shuancheng Wang (<a href="https://www.researchgate.net/profile/Shuancheng-Wang">link</a>) for evaluating SIFs by symbolic regression in <a href="https://doi.org/10.1016/j.engfracmech.2024.110641">Engineering Fracture Mechanics</a> (<a href="https://doi.org/10.1016/j.engfracmech.2024.110641">link</a>).
+- *2024.11*: &nbsp;🎉🎉 I cooperate with Feng Feng (<a href="https://www.researchgate.net/profile/Feng-Feng-11">link</a>) for predicting fatigue life of SLM316L steel by PINN in <a href="https://doi.org/10.1016/j.ijfatigue.2024.108486">International Journal of Fatigue</a> (<a href="https://doi.org/10.1016/j.ijfatigue.2024.108486">link</a>).
+- *2024.08*: &nbsp;🎉🎉 I cooperate with Shuancheng Wang (<a href="https://www.researchgate.net/profile/Shuancheng-Wang">link</a>) for effect of stress ratio and overload on fatigue crack growth behaviour in <a href="https://doi.org/10.1016/j.engfracmech.2025.111136">Engineering Fracture Mechanics</a> (<a href="https://doi.org/10.1016/j.engfracmech.2025.111136">link</a>).
+- *2024.01*: &nbsp;🎉🎉 I publish my last paper from master's study for modelling fatigue short crack growth behavior in <a href="https://link.springer.com/article/10.1007/s12540-024-01628-6">Metal Materials International</a> (<a href="https://link.springer.com/article/10.1007/s12540-024-01628-6">link</a>).
 - *2023.10*: &nbsp;🎉🎉 I start my Ph.D research in RWTH Aachen University in Germany.
-- *2023.09*: &nbsp;🎉🎉 I cooperate with Shuancheng Wang (<a href="https://www.researchgate.net/profile/Shuancheng-Wang">link</a>) for mixed mode crack growth behaviour of EA4T steel (<a href="https://doi.org/10.1016/j.engfracmech.2023.109430">link</a>).
+- *2023.09*: &nbsp;🎉🎉 I cooperate with Shuancheng Wang (<a href="https://www.researchgate.net/profile/Shuancheng-Wang">link</a>) for mixed mode crack growth behaviour of EA4T steel in <a href="https://doi.org/10.1016/j.engfracmech.2023.109430">Engineering Fracture Mechanics</a> (<a href="https://doi.org/10.1016/j.engfracmech.2023.109430">link</a>).
 - *2023.06*: &nbsp;🎉🎉 I receive my master's degree from Southwest Jiaotong University.
+
 # 📝 Publications 
 
 - **Shuwei Zhou**, Mian Huang, Christian Häffner, Sophie Stebner, Min Cai, Zhichao Wei, Bing Yang, Sebastian Münstermann (2026) "Microstructure-sensitive crystal plasticity and fatigue indicator modeling for LZ50 steel" International Journal of Fatigue, DOI: [10.1016/j.ijfatigue.2025.109302](https://doi.org/10.1016/j.ijfatigue.2025.109302)
