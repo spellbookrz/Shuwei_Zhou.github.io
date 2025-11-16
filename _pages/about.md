@@ -56,7 +56,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 - *2024.01*: &nbsp;🎉🎉 I publish my last paper from my master's study for modeling fatigue short crack growth behavior in <a href="https://link.springer.com/article/10.1007/s12540-024-01628-6">Metals and Materials International</a>.
 - *2023.10*: &nbsp;🎉🎉 I start my Ph.D research at RWTH Aachen University in Germany.
 - *2023.09*: &nbsp;🎉🎉 I cooperate with <a href="https://www.researchgate.net/profile/Shuancheng-Wang">Shuancheng Wang</a> for mixed mode crack growth behaviour of EA4T steel in <a href="https://doi.org/10.1016/j.engfracmech.2023.109430">Engineering Fracture Mechanics</a>.
-- *2023.06*: &nbsp;🎉🎉 I receive my master's degree from Southwest Jiaotong University.
+- *2023.06*: &nbsp;🎉🎉 I receive my master's degree from Southwest Jiaotong University. 
 
 # 📝 Publications 
 
