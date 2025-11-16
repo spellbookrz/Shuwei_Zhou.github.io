@@ -16,45 +16,75 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi, My name is Shuwei Zhou. I am a Ph. D candidate in Institue of Metal Forming (IBF) of RWTH Aachen university (2023.10——now), supervised by Prof. Dr.-Ing. Sebastian Münstermann <a href='https://www.ibf.rwth-aachen.de/cms/IBF/Das-Institut/Team/Das-IBF/Erweiterte-Institutsleitung/~bgbozz/Sebastian-Muenstermann/'>. I major in fatigue and fracture mechanics, trying to use machine learning and multi scale methods exploring damage tolerant analysis and design.
+I am a Ph.D. candidate at the Institute of Metal Forming (IBF), RWTH Aachen University (2023.10–present), supervised by Prof. Dr.-Ing. Sebastian Münstermann (<a href="https://www.ibf.rwth-aachen.de/cms/IBF/Das-Institut/Team/Das-IBF/Erweiterte-Institutsleitung/~bgbozz/Sebastian-Muenstermann/">link</a>).
+My research focuses on fatigue and fracture mechanics, with an emphasis on integrating machine learning and multiscale modeling for damage-tolerant design.
 
-I received my master's degree in vehicle engineering from State Key Laboratory of Rail Transit Vehicle System, Southwest Jiaotong University (SWJTU), under the supervision of Prof. Bing Yang <a href='https://faculty.swjtu.edu.cn/yangbing1/zh_CN/index.htm'> and Prof. Shoune Xiao <a href='https://faculty.swjtu.edu.cn/xiaoshoune/zh_CN/index.htm'> (2020——2023). I also received my bachelor's degree in engineering mechanics from School of Mechanics and Aerospace Engineering of SWJTU (2016——2020). 
+I received his master's degree in Vehicle Engineering from the State Key Laboratory of Rail Transit Vehicle System, Southwest Jiaotong University (SWJTU), supervised by Prof. Bing Yang (<a href="https://faculty.swjtu.edu.cn/yangbing1/zh_CN/index.htm">link</a>) and Prof. Shoune Xiao (<a href="https://faculty.swjtu.edu.cn/xiaoshoune/zh_CN/index.htm">link</a>) (2020–2023).
+I earned my bachelor’s degree in Engineering Mechanics from the School of Mechanics and Aerospace Engineering, SWJTU (2016–2020).
 
-I am studing in fatigue and fracture mechanics, having two directions in damage tolerant analysis and design. First, I have been embeding physical information and domain knowledge in machine learning tools to accuracy predict fatigue and fracture behavior. The representative works are published in Enginering Fracture Mechanics <a href='https://doi.org/10.1016/j.engfracmech.2025.111136'>, Metals and Materials International <a href='https://link.springer.com/article/10.1007/s12540-024-01628-6'>, Chinese Journal of Mechanical Engineering <a href='https://doi.org/10.1016/j.engfracmech.2025.111136'>, and Zhongguo Youse Jinshu Xuebao/Chinese Journal of Nonferrous <a href='https://doi.org/10.1016/j.engfracmech.2025.111136'>. Second, I am using crystal plasticity finite element method (CPFEM) to systematic investigate fatigue cracks initiation and propagation of metallic materials. The representative work is published in International Journal of Fatigue <a href='https://doi.org/10.1016/j.engfracmech.2025.111136'>. I will combining this two directions to explore data-driven multi scale modelling for fatigue behaviour.
+My current research covers two major directions in damage-tolerant fatigue and fracture analysis:
 
+Physics-embedded Machine Learning for Fatigue and Fracture
+I incorporate physical information and domain knowledge into machine learning models to accurately predict crack initiation, crack propagation, and fatigue life. Representative works have been published in
+
+Engineering Fracture Mechanics (<a href="https://doi.org/10.1016/j.engfracmech.2025.111136">link</a>)
+
+Metals and Materials International (<a href="https://link.springer.com/article/10.1007/s12540-024-01628-6">link</a>)
+
+Chinese Journal of Mechanical Engineering (<a href="https://link.springer.com/article/10.1186/s10033-023-00876-8">link</a>)
+
+中国有色金属学报 (Chinese Journal of Nonferrous Metals) (<a href="http://ysxb.csu.edu.cn/thesisDetails#10.11817/j.ysxb.1004.0609.2022-43508&lang=zh">link</a>)
+
+Crystal Plasticity Finite Element Method (CPFEM)
+I employ CPFEM to systematically investigate microstructure-sensitive fatigue crack initiation and growth in metallic materials. Representative work has been published in
+
+International Journal of Fatigue (<a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">link</a>)
+
+I am aiming to integrate these two research directions to develop data-driven multiscale frameworks for understanding and predicting fatigue behavior.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2023.06*: &nbsp;🎉🎉 I receive my master degree from Southwest Jiaotong Uviversity.
-- *2023.03*: &nbsp;🎉🎉 My first paper 
+- *2025.9*: &nbsp;🎉🎉 My second paper during Ph.D study for a microstructure-sensitive fatigue modelling by CPFEM is published in International Journal of Fatigue (<a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">link</a>).
+- *2025.5*: &nbsp;🎉🎉 I cooperate with Feng Feng (<a href="https://www.researchgate.net/profile/Feng-Feng-11">link</a>) for predicting the probability fatigue life of AM materials in Expert Systems with Applications (<a href="https://doi.org/10.1016/j.eswa.2025.127098">link</a>).
+- *2025.04*: &nbsp;🎉🎉 My first paper during Ph.D study for a general PINN framework for fatigue life prediction is published in Engineering Fracture Mechanics (<a href="https://doi.org/10.1016/j.engfracmech.2025.111136">link</a>).
+- *2025.02*: &nbsp;🎉🎉 I cooperate with Prof. Zhen Liao (<a href="https://www.researchgate.net/profile/Liao-Zhen">link</a>) for crack propagation mechanisms in AM Al-Mg alloy in Materials Science and Engineering: A (<a href="https://doi.org/10.1016/j.msea.2025.147802">link</a>).
+- *2024.12*: &nbsp;🎉🎉 I cooperate with Shuancheng Wang (<a href="https://www.researchgate.net/profile/Shuancheng-Wang">link</a>) for evaluating SIFs by symbolic regression in Engineering Fracture Mechanics (<a href="https://doi.org/10.1016/j.engfracmech.2024.110641">link</a>).
+- *2024.11*: &nbsp;🎉🎉 I cooperate with Feng Feng (<a href="https://www.researchgate.net/profile/Feng-Feng-11">link</a>) for predicting fatigue life of SLM316L steel by PINN in International Journal of Fatigue (<a href="https://doi.org/10.1016/j.ijfatigue.2024.108486">link</a>).
+- *2024.08*: &nbsp;🎉🎉 I cooperate with Shuancheng Wang (<a href="https://www.researchgate.net/profile/Shuancheng-Wang">link</a>) for effect of stress ratio and overload on fatigue crack growth behaviour in Engineering Fracture Mechanics (<a href="https://doi.org/10.1016/j.engfracmech.2025.111136">link</a>).
+- *2024.01*: &nbsp;🎉🎉 I publish my last paper from master's study for modelling fatigue short crack growth behavior in Metal Materials International (<a href="https://link.springer.com/article/10.1007/s12540-024-01628-6">link</a>).
+- *2023.10*: &nbsp;🎉🎉 I start my Ph.D research in RWTH Aachen University in Germany.
+- *2023.09*: &nbsp;🎉🎉 I cooperate with Shuancheng Wang (<a href="https://www.researchgate.net/profile/Shuancheng-Wang">link</a>) for mixed mode crack growth behaviour of EA4T steel (<a href="https://doi.org/10.1016/j.engfracmech.2023.109430">link</a>).
+- *2023.06*: &nbsp;🎉🎉 I receive my master's degree from Southwest Jiaotong University.
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Shuwei Zhou**, Mian Huang, Christian Häffner, Sophie Stebner, Min Cai, Zhichao Wei, Bing Yang, Sebastian Münstermann (2026) "Microstructure-sensitive crystal plasticity and fatigue indicator modeling for LZ50 steel" International Journal of Fatigue, DOI: [10.1016/j.ijfatigue.2025.109302](https://doi.org/10.1016/j.ijfatigue.2025.109302)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- Feng Feng, Tao Zhu, Bing Yang, Zhe Zhang, **Shuwei Zhou**, Shoune Xiao (2025) "Probabilistic fatigue life prediction in additive manufacturing materials with a physics-informed neural network framework" Expert Systems with Applications, DOI: [10.1016/j.eswa.2025.127098](https://doi.org/10.1016/j.eswa.2025.127098)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- **Shuwei Zhou**, Manuel Henrich, Zhichao Wei, Feng Feng, Bing Yang, Sebastian Münstermann (2025) "A general physics-informed neural network framework for fatigue life prediction of metallic materials" Engineering Fracture Mechanics, DOI: [10.1016/j.engfracmech.2025.111136](https://doi.org/10.1016/j.engfracmech.2025.111136)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- Shuancheng Wang, **Shuwei Zhou**, Bing Yang, Shoune Xiao, Guangwu Yang, Tao Zhu (2024) "Effective stress intensity factor range for fatigue cracks propagating in mixed mode I-II loading" Engineering Fracture Mechanics, DOI: [10.1016/j.engfracmech.2024.110641](https://doi.org/10.1016/j.engfracmech.2024.110641)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Shuancheng Wang, Bing Yang, **Shuwei Zhou**, Yuanzhi Wang, Shoune Xiao (2024) "Effect of stress ratio and overload on mixed-mode crack propagation behaviour of EA4T steel" Engineering Fracture Mechanics, DOI: [10.1016/j.engfracmech.2024.110210](https://doi.org/10.1016/j.engfracmech.2024.110210)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Shuancheng Wang, Bing Yang, **Shuwei Zhou**, Jian Li, Shoune Xiao (2024) "Closure Effect of I + II Mixed-mode Crack for EA4T Axle Steel" Chinese Journal of Mechanical Engineering, DOI: [10.1186/s10033-024-01061-1](https://doi.org/10.1186/s10033-024-01061-1)
+
+- Feng Feng, Tao Zhu, Bing Yang, **Shuwei Zhou**, Shoune Xiao (2024) "A physics-informed neural network approach for predicting fatigue life of SLM 316L stainless steel based on defect features" International Journal of Fatigue, DOI: [10.1016/j.ijfatigue.2024.108486](https://doi.org/10.1016/j.ijfatigue.2024.108486)
+
+- **Shuwei Zhou**, Bing Yang, Shoune Xiao, Guangwu Yang, Tao Zhu (2024) "Interpretable Machine Learning Method for Modelling Fatigue Short Crack Growth Behaviour" Metals and Materials International, DOI: [10.1007/s12540-024-01628-6](https://doi.org/10.1007/s12540-024-01628-6)
+
+- **Shuwei Zhou**, Bing Yang, Shoune Xiao, Guangwu Yang, Tao Zhu (2023) "Crack Growth Rate Model Derived from Domain Knowledge-Guided Symbolic Regression" Chinese Journal of Mechanical Engineering, DOI: [10.1186/s10033-023-00876-8](https://doi.org/10.1186/s10033-023-00876-8)
+
+- Shuancheng Wang, Bing Yang, Jian Li, **Shuwei Zhou**, Shoune Xiao (2023) "Mixed mode crack growth behaviour considering plasticity-induced and roughness-induced closure" Engineering Fracture Mechanics, DOI: [10.1016/j.engfracmech.2023.109430](https://doi.org/10.1016/j.engfracmech.2023.109430)
+
+- Bing Yang, Zhanjiang Wei, Zhen Liao, **Shuwei Zhou**, Shoune Xiao, Tao Zhu, Guangwu Yang, Mingmeng Wang (2021) "Optimisation Method for Determination of Crack Tip Position Based on Gauss-Newton Iterative Technique" Chinese Journal of Mechanical Engineering, DOI: [10.1186/s10033-021-00585-0](https://doi.org/10.1186/s10033-021-00585-0)
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10 - present*, Ph.D. candidate in Institute of Metal Forming, RWTH Aachen University, Germany.
+- *2020.09 - 2023.06*, Master's degree in Vehicle Engineering, State Key Laboratory of Rail Transit Vehicle System, Southwest Jiaotong University, China.
+- *2016.09 - 2020.06*, Bachelor's degree in Engineering Mechanics, School of Mechanics and Aerospace Engineering, Southwest Jiaotong University, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Reviewer
+Journal: Reliability Engineering & System Safety, Engineering Structures, Engineering Fracture Mechanics, Theoretical and Applied Fracture Mechanics, Engineering Applications of Artificial Intelligence, Journal of Materials Research and Technology, Structural and Health Monitoring, International Journal of Pressure Vessels and Piping, 工程热物理学报.
