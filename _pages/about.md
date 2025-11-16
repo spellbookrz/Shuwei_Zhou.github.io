@@ -25,20 +25,22 @@ I earned my bachelor’s degree in Engineering Mechanics from the School of Mech
 My current research covers two major directions in damage-tolerant fatigue and fracture analysis:
 
 1. **Physics-embedded Machine Learning for Fatigue and Fracture**
-I incorporate physical information and domain knowledge into machine learning models to accurately predict crack initiation, crack propagation, and fatigue life. Representative works have been published in
 
-<a href="https://doi.org/10.1016/j.engfracmech.2025.111136">Engineering Fracture Mechanics</a> 
+   I incorporate physical information and domain knowledge into machine learning models to accurately predict crack initiation, crack propagation, and fatigue life. Representative works have been published in
 
-<a href="https://link.springer.com/article/10.1007/s12540-024-01628-6">Metals and Materials International</a> 
+   <a href="https://doi.org/10.1016/j.engfracmech.2025.111136">Engineering Fracture Mechanics</a>
 
-<a href="https://link.springer.com/article/10.1186/s10033-023-00876-8">Chinese Journal of Mechanical Engineering</a> 
+   <a href="https://link.springer.com/article/10.1007/s12540-024-01628-6">Metals and Materials International</a>
 
-<a href="http://ysxb.csu.edu.cn/thesisDetails#10.11817/j.ysxb.1004.0609.2022-43508&lang=zh">中国有色金属学报 (Chinese Journal of Nonferrous Metals)</a> 
+   <a href="https://link.springer.com/article/10.1186/s10033-023-00876-8">Chinese Journal of Mechanical Engineering</a>
+
+   <a href="http://ysxb.csu.edu.cn/thesisDetails#10.11817/j.ysxb.1004.0609.2022-43508&lang=zh">中国有色金属学报 (Chinese Journal of Nonferrous Metals)</a>
 
 2. **Crystal Plasticity Finite Element Method (CPFEM)**
-I employ CPFEM to systematically investigate microstructure-sensitive fatigue crack initiation and growth in metallic materials. Representative work has been published in
 
-<a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">International Journal of Fatigue</a> 
+   I employ CPFEM to systematically investigate microstructure-sensitive fatigue crack initiation and growth in metallic materials. Representative work has been published in
+
+   <a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">International Journal of Fatigue</a> 
 
 I am aiming to integrate these two research directions to develop data-driven multiscale frameworks for understanding and predicting fatigue behavior.
 
