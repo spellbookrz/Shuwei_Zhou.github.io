@@ -24,7 +24,7 @@ I earned my bachelor’s degree in Engineering Mechanics from the School of Mech
 
 My current research covers two major directions in damage-tolerant fatigue and fracture analysis:
 
-Physics-embedded Machine Learning for Fatigue and Fracture
+1. **Physics-embedded Machine Learning for Fatigue and Fracture**
 I incorporate physical information and domain knowledge into machine learning models to accurately predict crack initiation, crack propagation, and fatigue life. Representative works have been published in
 
 <a href="https://doi.org/10.1016/j.engfracmech.2025.111136">Engineering Fracture Mechanics</a> 
@@ -35,7 +35,7 @@ I incorporate physical information and domain knowledge into machine learning mo
 
 <a href="http://ysxb.csu.edu.cn/thesisDetails#10.11817/j.ysxb.1004.0609.2022-43508&lang=zh">中国有色金属学报 (Chinese Journal of Nonferrous Metals)</a> 
 
-Crystal Plasticity Finite Element Method (CPFEM)
+2. **Crystal Plasticity Finite Element Method (CPFEM)**
 I employ CPFEM to systematically investigate microstructure-sensitive fatigue crack initiation and growth in metallic materials. Representative work has been published in
 
 <a href="https://doi.org/10.1016/j.ijfatigue.2025.109302">International Journal of Fatigue</a> 
