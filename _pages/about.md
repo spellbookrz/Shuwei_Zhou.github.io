@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a Ph.D. candidate at the Institute of Metal Forming (IBF), RWTH Aachen University (2023.10–present), supervised by <a href="https://www.ibf.rwth-aachen.de/cms/IBF/Das-Institut/Team/Das-IBF/Erweiterte-Institutsleitung/~bgbozz/Sebastian-Muenstermann/">Prof. Dr.-Ing. Sebastian Münstermann</a>.
+Hi, My name is Shuwei Zhou. I am a Ph.D. candidate at the Institute of Metal Forming (IBF), RWTH Aachen University (2023.10–present), supervised by <a href="https://www.ibf.rwth-aachen.de/cms/IBF/Das-Institut/Team/Das-IBF/Erweiterte-Institutsleitung/~bgbozz/Sebastian-Muenstermann/">Prof. Dr.-Ing. Sebastian Münstermann</a>.
 My research focuses on fatigue and fracture mechanics, with an emphasis on integrating machine learning and multiscale modeling for damage-tolerant design.
 
 I received my master's degree in Vehicle Engineering from the State Key Laboratory of Rail Transit Vehicle System, Southwest Jiaotong University (SWJTU), supervised by <a href="https://faculty.swjtu.edu.cn/yangbing1/zh_CN/index.htm">Prof. Bing Yang</a> and <a href="https://faculty.swjtu.edu.cn/xiaoshoune/zh_CN/index.htm">Prof. Shoune Xiao</a> (2020–2023).
