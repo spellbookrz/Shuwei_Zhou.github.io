@@ -87,7 +87,7 @@ I am aiming to integrate these two research directions to develop data-driven mu
 - Bing Yang, Zhanjiang Wei, Zhen Liao, **Shuwei Zhou**, Shoune Xiao, Tao Zhu, Guangwu Yang, Mingmeng Wang. (2021) "Optimisation Method for Determination of Crack Tip Position Based on Gauss-Newton Iterative Technique". <i>Chinese Journal of Mechanical Engineering</i>, 34(1). DOI: [10.1186/s10033-021-00585-0](https://doi.org/10.1186/s10033-021-00585-0)<span class='show_paper_citations' data='krmnMWIAAAAJ:2osOgNQ5qMEC'></span>
 
 
-# 📖 Education
+# 📖 Educations
 - *2023.10 - present*, Ph.D. candidate in the Institute of Metal Forming, RWTH Aachen University, Germany.
 - *2020.09 - 2023.06*, Master's degree in Vehicle Engineering, State Key Laboratory of Rail Transit Vehicle System, Southwest Jiaotong University, China.
 - *2016.09 - 2020.06*, Bachelor's degree in Engineering Mechanics, School of Mechanics and Aerospace Engineering, Southwest Jiaotong University, China.
